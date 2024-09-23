@@ -1,12 +1,15 @@
-# Desafio POO - UML
+# Desafio POO - UML Atividade-2
 
-#### Monte um diagrama UML simplificado para um e-commerce, você pode escolher uma parte em específico do sistema, como por exemplo, fluxo de compra, vitrine, produtos… Utilize ferramentas para auxiliar na estrutura do diagrama.
+### Tema: Aplicar Encapsulamento
 
-#### Objetivo: Identificar entidades do sistema exercitando assim abstração em conjunto ao POO.
+#### Atualize o diagrama de classes do seu e-commerce adicionando os modificadores de acesso corretamente, e refatore suas classes adicionando modificadores de acesso e métodos acessores, lembre de validar a entrada de dados.
+
+#### Criar uma branch separada – (ex. atividade-2)
+
+#### Objetivo: Aplicar encapsulamento através de modificadores de acesso e métodos acessores.
 
 #### Agora que já possui o diagrama de classe, implemente a classe e instancie alguns objetos únicos a partir da classe criada.
 
-#### Objetivo: Praticar a criação de classes e entender a diferença entre classe e objeto.
 
 <hr>
 
